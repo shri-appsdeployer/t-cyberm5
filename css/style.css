@@ -4,5 +4,8 @@
     box-sizing: border-box;
 }
 
-
+.shadow-c{
+    box-sizing: border-box;
+    box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.200);
+}
 /* media Queries */
